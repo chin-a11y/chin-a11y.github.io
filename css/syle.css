@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "indie";
+    src: url("fonts/IndieFlower-Regular.ttf");
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Pacifico&display=swap');
+h1 {
+    color:blue;
+
+    font-family: 'indie', cursive;
+    }
+p {
+    color:black;
+    font-size: 24px;
+    font-family: 'pacifico', cursive;
+}
+
+img {
+    width: 1024px;
+    height: 346px;
+    margin: 25px;
+}
